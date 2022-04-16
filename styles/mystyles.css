@@ -1,0 +1,84 @@
+.education{
+    color: crimson;
+}
+
+.work{
+    color: blue;
+}
+
+.skills{
+    color: goldenrod;
+}
+
+.contactme{
+    color: darkgreen;
+}
+
+.icons{
+    color: deeppink;
+}
+
+.video{
+    color: blueviolet;
+    text-align: center;
+}
+
+.toptag{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.toptag:hover{
+    background-color: darkgray;
+}
+
+.toptag:visited{
+    color: brown;
+}
+
+.nametitle{
+    color: deeppink;
+}
+
+.abouttitle{
+    color: deepskyblue;
+}
+
+.homepics{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+.homecaptions{
+    text-align: center;
+    color: rgb(202, 102, 66);
+}
+
+.picturestitle{
+    text-align: center;
+    color: blue;
+}
+
+.background{
+    background-color: rgb(194, 252, 233);
+}
+
+.vidformat{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.background2{
+    background-color: rgb(217, 217, 217);
+}
+
+.resumetitle{
+    text-align: center;
+}
